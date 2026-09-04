@@ -8,7 +8,7 @@
 
 ## Introduction
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
- [![Powered by Gekko-BacktestTool](https://img.shields.io/badge/Made%20with-Gekko%20BacktestTool-blue.svg)](https://github.com/xFFFFF/Gekko-BacktestTool) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/xFFFFF/Gekko-Strategies/issues) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/xFFFFF/Gekko-Strategies/graphs/contributors/)
+ [![Powered by Gekko-BacktestTool](https://img.shields.io/badge/Made%20with-Gekko%20BacktestTool-blue.svg)](https://github.com/xFFFFF/Gekko-BacktestTool) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/xFFFFF/Gekko-Strategies/graphs/contributors/)
 
     
 [Gekko](http://github.com/askmike/gekko) Trading Bot. Repository of strategies which I found at Git and Google, orginal source is in README or .js file. Strategies was backtested, results are in [backtest_database.csv](https://github.com/xFFFFF/Gekko-Strategies/blob/master/backtest_database.csv) file.
@@ -21,7 +21,6 @@ The imported collection groups historical backtest outputs by reported profit pe
 ![Stats of strategies](http://i.imgur.com/UFn4P7U.png)
 
 These are unverified historical backtests, not real trading results or performance claims.
-Feel free if You want share strategies on this repo. I will backtest it after push.   
 ## Installation
 The following inherited instructions are retained for historical context and have not been validated.
 

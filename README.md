@@ -1,22 +1,30 @@
 # Gekko-Strategies
+
+> **Historical third-party collection**
+>
+> This repository is preserved as an unmaintained historical collection of trading strategies collected from or derived from third-party sources. I did not author the collected strategies. Their authorship, redistribution rights, and licensing have not been fully reverified.
+>
+> Bundled backtest logs, datasets, and summaries are historical artifacts, not verified performance evidence. No profitability or financial-performance claim is made. Current compatibility with Gekko, exchanges, dependencies, or any strategy is not claimed. Do not use this repository as a current trading system or with production accounts.
+
 ## Introduction
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
  [![Powered by Gekko-BacktestTool](https://img.shields.io/badge/Made%20with-Gekko%20BacktestTool-blue.svg)](https://github.com/xFFFFF/Gekko-BacktestTool) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/xFFFFF/Gekko-Strategies/issues) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/xFFFFF/Gekko-Strategies/graphs/contributors/)
- [![HitCount](http://hits.dwyl.com/xFFFFF/Gekko-Strategies.svg)](http://hits.dwyl.com/xFFFFF/Gekko-Strategies) [![GA](https://ga-beacon.appspot.com/UA-118674108-1/r)](https://github.com/xFFFFF/Gekko-Strategies)
 
     
 [Gekko](http://github.com/askmike/gekko) Trading Bot. Repository of strategies which I found at Git and Google, orginal source is in README or .js file. Strategies was backtested, results are in [backtest_database.csv](https://github.com/xFFFFF/Gekko-Strategies/blob/master/backtest_database.csv) file.
 
 I used [ForksScraper](https://github.com/xFFFFF/ForksScraper) and [Gekko BacktestTool](https://github.com/xFFFFF/Gekko-BacktestTool) to create content of this repository.
 
-## Best strategy
-Results are sorted by amount of best profit/day on unique **DATASETS**.     
+## Historical backtest summary
+The imported collection groups historical backtest outputs by reported profit per day across datasets. These outputs have not been independently reproduced or revalidated and are not evidence of live, expected, or future performance.
 .   
 ![Stats of strategies](http://i.imgur.com/UFn4P7U.png)
 
-Remember, these are just **BACKTESTS**. Not real trading!
+These are unverified historical backtests, not real trading results or performance claims.
 Feel free if You want share strategies on this repo. I will backtest it after push.   
 ## Installation
+The following inherited instructions are retained for historical context and have not been validated.
+
 ### Unix-like   
 1. `git clone https://github.com/xFFFFF/Gekko-Strategies`   
 2. `cd Gekko-Strategies`   
